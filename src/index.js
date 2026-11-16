@@ -48,7 +48,7 @@ async function prices() {
     const observations = records.filter(row => Number.isFinite(row[key]));
     const latest = observations.at(-1);
     const previous = observations.at(-2);
-    return { name, seriesId: id, date: latest?.date ?? null, value: latest?.[key] ?? null,
+    return { name, seriesId: id, date: latest?.date ?? null, value: latest?.[key] ?? null, previousValue: previous?.[key] ?? null,
       change: latest && previous ? Number((latest[key] - previous[key]).toFixed(3)) : null,
       changePercent: latest && previous && previous[key] !== 0 ? Number(((latest[key] - previous[key]) / previous[key] * 100).toFixed(2)) : null, unit };
   });
