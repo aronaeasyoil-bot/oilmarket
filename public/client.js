@@ -132,6 +132,6 @@ async function submitInquiry(event) {
 render = function () {
   const route=location.hash.replace(/^#\/?/,'').split('/')[0]||'home';headerActive(route);
   const page=route==='home'?home():route==='prices'?pricesPage():['refineries','traders','storage','shipping'].includes(route)?directoryPage(route):route==='inquiry'?inquiryPage():route==='news'?newsPage():route==='insights'?insightsPage():route==='products'?productsPage():route==='listings'?listingsPage():route==='about'?aboutPage():['privacy','terms'].includes(route)?legalPage(route):home();
-  app.innerHTML=page;document.getElementById('year').textContent=new Date().getFullYear();wireConnectedFilters();if(route==='home'||route==='news')renderConnectedNews();if(route==='home'||route==='prices')updateLivePrices();
+  app.innerHTML=page;document.querySelectorAll('[data-i18n]').forEach(element=>element.textContent=t(element.dataset.i18n));document.querySelectorAll('.lang-toggle').forEach(button=>button.textContent=lang==='en'?'FR':'EN');document.getElementById('year').textContent=new Date().getFullYear();wireConnectedFilters();if(route==='home'||route==='news')renderConnectedNews();if(route==='home'||route==='prices')updateLivePrices();
 };
 render();
