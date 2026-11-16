@@ -20,7 +20,7 @@ npm run deploy
 
 - `GET /api/news` reads LE BRIEF’s public RSS feed and caches headlines for 15 minutes.
 - `GET /api/prices` reads daily Brent and WTI spot observations from the U.S. EIA through FRED. These observations are delayed and are not physical cargo quotations. The endpoint returns up to 365 observations for the chart.
-- `POST /api/inquiries` validates consent and required fields, limits each email to five requests per hour, and stores inquiries in the private Cloudflare D1 database `oilmarket-live`. There is no public read endpoint or email notification configured.
+- `POST /api/inquiries` validates consent and required fields, limits each email to five requests per hour, and stores inquiries and consent timestamps in the private Cloudflare D1 database `oilmarket-live`. There is no public read endpoint or email notification configured.
 - Directory entries link to public operator pages. Listings are examples and directory companies are not verified as suppliers or counterparties.
 
 ## Sources

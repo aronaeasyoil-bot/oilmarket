@@ -71,9 +71,10 @@ async function submitInquiry(request, env) {
   const recent = await env.DB.prepare('SELECT COUNT(*) AS total FROM inquiries WHERE business_email = ? AND created_at >= ?').bind(fields.email.toLowerCase(), since).first();
   if ((recent?.total || 0) >= 5) return json({ error: 'Too many inquiries from this email. Please try again later.' }, 429);
   const id = crypto.randomUUID();
-  await env.DB.prepare(`INSERT INTO inquiries (id, created_at, full_name, business_email, company, role, product, specification, volume_mt, destination, incoterm, delivery_period, payment_terms, details, locale, status)
-    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 'new')`)
-    .bind(id, new Date().toISOString(), fields.name, fields.email.toLowerCase(), fields.company, fields.role, fields.product, fields.specification, fields.volume, fields.destination, fields.incoterm, fields.delivery, fields.payment, fields.details, fields.locale).run();
+  const createdAt = new Date().toISOString();
+  await env.DB.prepare(`INSERT INTO inquiries (id, created_at, consent_at, full_name, business_email, company, role, product, specification, volume_mt, destination, incoterm, delivery_period, payment_terms, details, locale, status)
+    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 'new')`)
+    .bind(id, createdAt, createdAt, fields.name, fields.email.toLowerCase(), fields.company, fields.role, fields.product, fields.specification, fields.volume, fields.destination, fields.incoterm, fields.delivery, fields.payment, fields.details, fields.locale).run();
   return json({ ok: true, id }, 201);
 }
 
