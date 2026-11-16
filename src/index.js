@@ -28,25 +28,35 @@ async function news() {
   return { source: 'LE BRIEF', sourceUrl: 'https://www.lebrief.energy/', updatedAt: new Date().toISOString(), items };
 }
 async function prices() {
-  const url = 'https://fred.stlouisfed.org/graph/fredgraph.csv?id=DCOILBRENTEU,DCOILWTICO';
-  const response = await fetch(url, { cf: { cacheTtl: 3600, cacheEverything: true } });
-  if (!response.ok) throw new Error(`FRED returned ${response.status}`);
+  const url = 'https://fred.stlouisfed.org/graph/fredgraph.csv?id=DCOILBRENTEU,DCOILWTICO,DDFUELNYH,DHHNGSP';
+  const response = await fetch(url, { cf: { cacheTtl: 900, cacheEverything: true } });
+  if (!response.ok) throw new Error('FRED returned ' + response.status);
   const lines = (await response.text()).trim().split(/\r?\n/);
   const records = lines.slice(1).map(line => {
-    const [date, brent, wti] = line.split(',');
-    const numeric = value => value == null || value.trim() === '' || value.trim() === '.' ? NaN : Number(value);
-    return { date, brent: numeric(brent), wti: numeric(wti) };
-  }).filter(row => row.date && (Number.isFinite(row.brent) || Number.isFinite(row.wti)));
+    const [date, brent, wti, diesel, gas] = line.split(',');
+    const numeric = value => value == null || value.trim() === '' || value.trim() === '.' ? null : Number(value);
+    return { date, brent: numeric(brent), wti: numeric(wti), diesel: numeric(diesel), gas: numeric(gas) };
+  }).filter(row => row.date && Object.values(row).slice(1).some(Number.isFinite));
   if (!records.length) throw new Error('FRED returned no observations');
-  const latest = records.at(-1);
-  const prior = records.at(-2);
-  const series = (name, key, id) => ({
-    name, seriesId: id, date: latest.date,
-    value: Number.isFinite(latest[key]) ? latest[key] : null,
-    change: Number.isFinite(latest[key]) && Number.isFinite(prior?.[key]) ? Number((latest[key] - prior[key]).toFixed(2)) : null,
-    unit: 'USD/bbl',
+  const definitions = [
+    { name: 'Brent Crude', key: 'brent', id: 'DCOILBRENTEU', unit: 'USD/bbl' },
+    { name: 'WTI Crude', key: 'wti', id: 'DCOILWTICO', unit: 'USD/bbl' },
+    { name: 'Ultra-Low-Sulfur Diesel · NY Harbor', key: 'diesel', id: 'DDFUELNYH', unit: 'USD/gal' },
+    { name: 'Henry Hub Natural Gas', key: 'gas', id: 'DHHNGSP', unit: 'USD/MMBtu' },
+  ];
+  const series = definitions.map(({ name, key, id, unit }) => {
+    const observations = records.filter(row => Number.isFinite(row[key]));
+    const latest = observations.at(-1);
+    const previous = observations.at(-2);
+    return { name, seriesId: id, date: latest?.date ?? null, value: latest?.[key] ?? null,
+      change: latest && previous ? Number((latest[key] - previous[key]).toFixed(3)) : null,
+      changePercent: latest && previous && previous[key] !== 0 ? Number(((latest[key] - previous[key]) / previous[key] * 100).toFixed(2)) : null, unit };
   });
-  return { source: 'U.S. Energy Information Administration via FRED', sourceUrl: 'https://fred.stlouisfed.org/', updatedAt: new Date().toISOString(), delayed: true, series: [series('Brent Crude', 'brent', 'DCOILBRENTEU'), series('WTI Crude', 'wti', 'DCOILWTICO')], history: records.slice(-365).map(row => ({ date: row.date, brent: Number.isFinite(row.brent) ? row.brent : null, wti: Number.isFinite(row.wti) ? row.wti : null })) };
+  return {
+    source: 'U.S. Energy Information Administration via FRED',
+    sourceUrl: 'https://fred.stlouisfed.org/', updatedAt: new Date().toISOString(), delayed: true,
+    series, history: records.slice(-365).map(row => ({ date: row.date, brent: row.brent, wti: row.wti, diesel: row.diesel, gas: row.gas })),
+  };
 }
 async function submitInquiry(request, env) {
   if (request.method !== 'POST') return json({ error: 'Method not allowed' }, 405, { allow: 'POST' });
