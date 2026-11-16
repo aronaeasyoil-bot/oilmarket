@@ -1,0 +1,2707 @@
+{
+  "source": "Public refinery directory snapshot",
+  "sourceUrl": "https://liverse.net/en/refineries",
+  "total": 300,
+  "items": [
+    {
+      "slug": "abadan-refinery",
+      "name": "Abadan Refinery",
+      "operator": "National Iranian Oil Company (NIOC)",
+      "country": "Iran",
+      "capacityBD": "500,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q10358458",
+      "name": "Abreu e Lima Refinery",
+      "operator": "Petrobras",
+      "country": "Brazil",
+      "capacityBD": "230,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q12398795",
+      "name": "A Coruña oil refinery",
+      "operator": "—",
+      "country": "Spain",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "adnoc-ruwais-refinery",
+      "name": "$L6e",
+      "operator": "Request a correction →",
+      "country": "ADNOC Ruwais Refinery",
+      "capacityBD": "ADNOC",
+      "units": "United Arab Emirates",
+      "port": "837,000"
+    },
+    {
+      "slug": "y-q3417377",
+      "name": "Adrar Refinery",
+      "operator": "—",
+      "country": "Algeria",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-y-q112960406",
+      "name": "Afipsky refinery",
+      "operator": "SAFMAR Group (2019년 인수)",
+      "country": "Russia",
+      "capacityBD": "125,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q126133695",
+      "name": "Aichi Kitahama refinery",
+      "operator": "—",
+      "country": "Japan",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q126133249",
+      "name": "Aichi Minamihama refinery",
+      "operator": "—",
+      "country": "Japan",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q56053961",
+      "name": "Algiers Refinery",
+      "operator": "—",
+      "country": "Algeria",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q77023721",
+      "name": "Altona oil refinery",
+      "operator": "—",
+      "country": "Australia",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "z-y-q4705016",
+      "name": "Al Zour Refinery",
+      "operator": "—",
+      "country": "Kuwait",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-y-q5779930",
+      "name": "Amuay refinery",
+      "operator": "—",
+      "country": "Venezuela",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q124299826",
+      "name": "Angarsk Petrochemical Refinery",
+      "operator": "—",
+      "country": "Russia",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q123739798",
+      "name": "Anqing oil refinery",
+      "operator": "—",
+      "country": "China",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q3620614",
+      "name": "API Ancona Refinery",
+      "operator": "—",
+      "country": "Italy",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q4795740",
+      "name": "Arpechim Refinery",
+      "operator": "—",
+      "country": "Romania",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "zw-y",
+      "name": "Arzew Refinery",
+      "operator": "—",
+      "country": "Algeria",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-y-q4034479",
+      "name": "Aspropyrgos Refinery",
+      "operator": "—",
+      "country": "Greece",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "aster-bukom-refinery",
+      "name": "Aster Chemicals and Energy — Bukom Refinery",
+      "operator": "Aster Chemicals and Energy(인도네시아 Chandra Asri + Glencore 합작)",
+      "country": "Singapore",
+      "capacityBD": "237,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q117883951",
+      "name": "Atmore Refinery",
+      "operator": "—",
+      "country": "United States",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q4818583",
+      "name": "Attock Refinery",
+      "operator": "—",
+      "country": "Pakistan",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-y-q4072318",
+      "name": "Atyrau oil refinery",
+      "operator": "—",
+      "country": "Kazakhstan",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q125083346",
+      "name": "Augusta refinery",
+      "operator": "—",
+      "country": "Italy",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q17991536",
+      "name": "$L6e",
+      "operator": "Request a correction →",
+      "country": "Baiji oil refinery",
+      "capacityBD": "—",
+      "units": "Iraq",
+      "port": "—"
+    },
+    {
+      "slug": "north-refineries-baiji-refinery",
+      "name": "Baiji Refinery (North Refinery)",
+      "operator": "North Refineries Company (NRC) — Ministry of Oil",
+      "country": "Iraq",
+      "capacityBD": "150,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q115293794",
+      "name": "Balikpapan oil refinery",
+      "operator": "—",
+      "country": "Indonesia",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q106264642",
+      "name": "Balongan oil refinery",
+      "operator": "—",
+      "country": "Indonesia",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "bandar-abbas-oil-refinery",
+      "name": "Bandar Abbas Oil Refinery",
+      "operator": "National Iranian Oil Refining and Distribution Company (NIORDC)",
+      "country": "Iran",
+      "capacityBD": "320,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-y-q114316894",
+      "name": "Baniyas Refinery",
+      "operator": "—",
+      "country": "Syria",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q4858511",
+      "name": "Barauni Refinery",
+      "operator": "—",
+      "country": "India",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "ecopetrol-barrancabermeja-refinery",
+      "name": "Barrancabermeja Refinery",
+      "operator": "Ecopetrol",
+      "country": "Colombia",
+      "capacityBD": "250,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "src-basrah-refinery",
+      "name": "Basrah Refinery (South Refineries Company)",
+      "operator": "South Refineries Company (SRC) — Iraq Ministry of Oil",
+      "country": "Iraq",
+      "capacityBD": "210,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q114297944",
+      "name": "Basra refinery",
+      "operator": "—",
+      "country": "Iraq",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q104848933",
+      "name": "Bataan Refinery",
+      "operator": "—",
+      "country": "Philippines",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q4869481",
+      "name": "Baton Rouge Refinery",
+      "operator": "—",
+      "country": "United States",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "yw-y",
+      "name": "Baytown Refinery",
+      "operator": "—",
+      "country": "United States",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "ywy-y",
+      "name": "Bayway Refinery",
+      "operator": "—",
+      "country": "United States",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q123740108",
+      "name": "Beihai oil refinery",
+      "operator": "—",
+      "country": "China",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q4887938",
+      "name": "Benicia Refinery",
+      "operator": "—",
+      "country": "United States",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q124672559",
+      "name": "Big Spring Refinery",
+      "operator": "—",
+      "country": "United States",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q19460532",
+      "name": "Billings Refinery",
+      "operator": "—",
+      "country": "United States",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q17018647",
+      "name": "Bina Refinery",
+      "operator": "—",
+      "country": "India",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q4941822",
+      "name": "Bongaigaon Refinery",
+      "operator": "—",
+      "country": "India",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "x-y-q126927706",
+      "name": "$L6d",
+      "operator": "Request a correction →",
+      "country": "Bordeaux Refinery",
+      "capacityBD": "—",
+      "units": "France",
+      "port": "—"
+    },
+    {
+      "slug": "bpcl-kochi-refinery",
+      "name": "BPCL Kochi Refinery",
+      "operator": "Bharat Petroleum Corporation Limited (BPCL)",
+      "country": "India",
+      "capacityBD": "310,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q117883879",
+      "name": "Bradford Refinery",
+      "operator": "—",
+      "country": "United States",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "w-y-q98399618",
+      "name": "Bulwer Island oil refinery",
+      "operator": "—",
+      "country": "Australia",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q15125781",
+      "name": "Burghausen refinery",
+      "operator": "—",
+      "country": "Germany",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-y-q4999598",
+      "name": "Burnaby Refinery",
+      "operator": "—",
+      "country": "Canada",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "cabinda-refinery",
+      "name": "Cabinda Refinery",
+      "operator": "Gemcorp (90%) / Sonangol (10%) joint venture",
+      "country": "Angola",
+      "capacityBD": "30,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-y-q114309422",
+      "name": "Cadereyta Refinery",
+      "operator": "—",
+      "country": "Mexico",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "x-q53596638",
+      "name": "Caltex-Raffinerie Raunheim",
+      "operator": "—",
+      "country": "Germany",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q131827488",
+      "name": "Canada Oil Company",
+      "operator": "—",
+      "country": "Canada",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "z-y",
+      "name": "Cangzhou oil refinery",
+      "operator": "—",
+      "country": "China",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q3417387",
+      "name": "Cartagena Refinery",
+      "operator": "—",
+      "country": "Colombia",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q5053561",
+      "name": "Catlettsburg Refinery",
+      "operator": "—",
+      "country": "United States",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q117884246",
+      "name": "Chalmette Refinery",
+      "operator": "PBF Energy Inc.",
+      "country": "United States",
+      "capacityBD": "185,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "v-y-q16829348",
+      "name": "Chernigov Refinery",
+      "operator": "—",
+      "country": "Russia",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-y-q5092452",
+      "name": "Cherry Point Refinery",
+      "operator": "—",
+      "country": "United States",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "chevron-pascagoula-refinery",
+      "name": "Chevron Pascagoula Refinery",
+      "operator": "Chevron",
+      "country": "United States",
+      "capacityBD": "361,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "v-y-q117922810",
+      "name": "Chevron Salt Lake Refinery",
+      "operator": "Chevron Corporation",
+      "country": "United States",
+      "capacityBD": "55,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-y-q17509112",
+      "name": "Chilkat Oil Company Refinery Site",
+      "operator": "—",
+      "country": "United States",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q12505203",
+      "name": "Cilacap oil refinery",
+      "operator": "—",
+      "country": "Indonesia",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "pertamina-cilacap-refinery",
+      "name": "$L6e",
+      "operator": "Request a correction →",
+      "country": "Cilacap Refinery",
+      "capacityBD": "Pertamina",
+      "units": "Indonesia",
+      "port": "348,000"
+    },
+    {
+      "slug": "y-y-q5137000",
+      "name": "Clyde Refinery",
+      "operator": "—",
+      "country": "Australia",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "cnooc-huizhou-refinery",
+      "name": "CNOOC Huizhou Refining & Chemical Co., Ltd.",
+      "operator": "CNOOC Huizhou Refining & Chemical Co., Ltd.",
+      "country": "China",
+      "capacityBD": "440,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "cnooc-ningbo-daxie-refinery",
+      "name": "CNOOC Ningbo Daxie Petrochemical Co., Ltd.",
+      "operator": "CNOOC Ningbo Daxie Petrochemical Co., Ltd.",
+      "country": "China",
+      "capacityBD": "240,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-y-q5151115",
+      "name": "Come By Chance Refinery",
+      "operator": "—",
+      "country": "Canada",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-y",
+      "name": "Commerce City Refinery",
+      "operator": "—",
+      "country": "United States",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "x-q19826580",
+      "name": "Complex Petroquímic de Tarragona",
+      "operator": "—",
+      "country": "Spain",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-x-q5009703",
+      "name": "Co-op Refinery Complex",
+      "operator": "—",
+      "country": "Canada",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q5170669",
+      "name": "Corinth Refinery",
+      "operator": "—",
+      "country": "Greece",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-y-q2127138",
+      "name": "Coryton Refinery",
+      "operator": "—",
+      "country": "United Kingdom",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "cpc-dalin-refinery",
+      "name": "CPC Dalin (Talin) Refinery",
+      "operator": "CPC Corporation, Taiwan",
+      "country": "Taiwan",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q12335113",
+      "name": "Crossbridge Energy",
+      "operator": "—",
+      "country": "Denmark",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q16928890",
+      "name": "Dalin Refinery",
+      "operator": "—",
+      "country": "Taiwan",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "dangote-refinery",
+      "name": "Dangote Refinery",
+      "operator": "Dangote Industries",
+      "country": "Nigeria",
+      "capacityBD": "650,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q123740164",
+      "name": "Daqing Petrochemical Refinery",
+      "operator": "—",
+      "country": "China",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q18547291",
+      "name": "Dărmănești oil refinery",
+      "operator": "—",
+      "country": "Romania",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "daura-refinery",
+      "name": "Daura Refinery",
+      "operator": "Midland Refineries Company (Ministry of Oil)",
+      "country": "Iraq",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q85756189",
+      "name": "Deer Park Refinery",
+      "operator": "—",
+      "country": "United States",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "w-y-y",
+      "name": "Delaware City Refinery",
+      "operator": "—",
+      "country": "United States",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q5275564",
+      "name": "Digboi Refinery",
+      "operator": "—",
+      "country": "India",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q107051202",
+      "name": "$L6b",
+      "operator": "Request a correction →",
+      "country": "Dos Bocas Refinery",
+      "capacityBD": "—",
+      "units": "Mexico",
+      "port": "—"
+    },
+    {
+      "slug": "y-q115293388",
+      "name": "Dumai oil refinery",
+      "operator": "—",
+      "country": "Indonesia",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q3041307",
+      "name": "Dung Quat refinery",
+      "operator": "—",
+      "country": "Vietnam",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q111710552",
+      "name": "Duqm Refinery",
+      "operator": "—",
+      "country": "Oman",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q5330401",
+      "name": "Eastern Refinery Limited",
+      "operator": "—",
+      "country": "Bangladesh",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q5351193",
+      "name": "El Dorado Refinery",
+      "operator": "—",
+      "country": "United States",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q5779953",
+      "name": "El Palito oil refinery",
+      "operator": "—",
+      "country": "Venezuela",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q122583513",
+      "name": "El Segundo refinery",
+      "operator": "Chevron Corporation",
+      "country": "United States",
+      "capacityBD": "290,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "eneos-mizushima-refinery",
+      "name": "ENEOS Mizushima Refinery",
+      "operator": "ENEOS Holdings",
+      "country": "Japan",
+      "capacityBD": "350,200",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q121308044",
+      "name": "Engen refinery",
+      "operator": "—",
+      "country": "South Africa",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "eni-sannazzaro-refinery",
+      "name": "Eni Sannazzaro Refinery",
+      "operator": "Eni",
+      "country": "Italy",
+      "capacityBD": "180,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q106159442",
+      "name": "Eromanga Refinery",
+      "operator": "—",
+      "country": "Australia",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q107392586",
+      "name": "Escombreras oil refinery",
+      "operator": "—",
+      "country": "Spain",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q12417189",
+      "name": "Essar Refinery",
+      "operator": "—",
+      "country": "India",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q5399947",
+      "name": "Esso Refinery",
+      "operator": "—",
+      "country": "United Kingdom",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q2569045",
+      "name": "Esso refinery in Botlek",
+      "operator": "—",
+      "country": "Netherlands",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "xx",
+      "name": "ExxonMobil Singapore Chemical Plant",
+      "operator": "—",
+      "country": "Singapore",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "exxonmobil-singapore-refinery",
+      "name": "ExxonMobil Singapore Refinery",
+      "operator": "ExxonMobil",
+      "country": "Singapore",
+      "capacityBD": "592,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "wy-y-q5438770",
+      "name": "Fawley Refinery",
+      "operator": "—",
+      "country": "United Kingdom",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q22022474",
+      "name": "Ferndale Refinery",
+      "operator": "—",
+      "country": "United States",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q38214236",
+      "name": "$L6e",
+      "operator": "Request a correction →",
+      "country": "Francisco I. Madero Refinery",
+      "capacityBD": "—",
+      "units": "Mexico",
+      "port": "—"
+    },
+    {
+      "slug": "y-q114303213",
+      "name": "Fujairah refinery",
+      "operator": "—",
+      "country": "United Arab Emirates",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "fujian-refining-petrochemical-company",
+      "name": "Fujian Refining & Petrochemical Company Ltd. (FREP)",
+      "operator": "Fujian Petrochemical Company Ltd. (50%) / ExxonMobil China Petroleum & Petrochemical (25%) / Saudi Aramco Sino Company (25%) 합작",
+      "country": "China",
+      "capacityBD": "240,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q98098276",
+      "name": "Gallup Refinery",
+      "operator": "—",
+      "country": "United States",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "v-y-y",
+      "name": "Galveston Bay Refinery",
+      "operator": "Marathon Petroleum Corporation",
+      "country": "United States",
+      "capacityBD": "631,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "yv-y",
+      "name": "Garyville Refinery",
+      "operator": "—",
+      "country": "United States",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "z-v",
+      "name": "Gazprom Neftekhim Salavat",
+      "operator": "—",
+      "country": "Russia",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "z-v-q4131792",
+      "name": "Gazprom Neftekhim Salavat",
+      "operator": "—",
+      "country": "Russia",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q5529384",
+      "name": "Gdańsk refinery",
+      "operator": "—",
+      "country": "Poland",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q77024153",
+      "name": "Geelong oil refinery",
+      "operator": "—",
+      "country": "Australia",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q5790595",
+      "name": "Gibraltar-San Roque Refinery",
+      "operator": "—",
+      "country": "Spain",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q5579358",
+      "name": "Golden Eagle Refinery",
+      "operator": "—",
+      "country": "United States",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q5595715",
+      "name": "Grangemouth Refinery",
+      "operator": "—",
+      "country": "United Kingdom",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q114740307",
+      "name": "Grass Root Refinery",
+      "operator": "—",
+      "country": "Indonesia",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "gs-caltex-yeosu-refinery",
+      "name": "GS Caltex Yeosu Refinery",
+      "operator": "GS Caltex",
+      "country": "South Korea",
+      "capacityBD": "800,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q5617512",
+      "name": "Gulf Refinery",
+      "operator": "—",
+      "country": "United Kingdom",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "v-y-q2681004",
+      "name": "Gunvor Energy Rotterdam",
+      "operator": "—",
+      "country": "Netherlands",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q5620369",
+      "name": "Guru Gobind Singh Refinery",
+      "operator": "—",
+      "country": "India",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "w-y-q17054290",
+      "name": "Guwahati Refinery",
+      "operator": "—",
+      "country": "India",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "w-y-q121545789",
+      "name": "Gwadar refinery",
+      "operator": "—",
+      "country": "Pakistan",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "haditha-refinery",
+      "name": "$L6e",
+      "operator": "Request a correction →",
+      "country": "Haditha Refinery",
+      "capacityBD": "North Refineries Company (NRC) — Ministry of Oil",
+      "units": "Iraq",
+      "port": "16,000"
+    },
+    {
+      "slug": "y-q124285258",
+      "name": "Haifa Refinery",
+      "operator": "—",
+      "country": "Israel",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q5641276",
+      "name": "Haldia Refinery",
+      "operator": "—",
+      "country": "India",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q65084514",
+      "name": "Hambantota Refinery",
+      "operator": "—",
+      "country": "Sri Lanka",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "hyundai-oilbank-daesan-refinery",
+      "name": "HD Hyundai Oilbank Daesan Refinery",
+      "operator": "HD Hyundai Oilbank",
+      "country": "South Korea",
+      "capacityBD": "690,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "hengli-petrochemical-dalian-refinery",
+      "name": "Hengli Petrochemical (Dalian) Refining & Chemical Complex",
+      "operator": "Hengli Petrochemical (Dalian) Refining & Chemical Co., Ltd.",
+      "country": "China",
+      "capacityBD": "400,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-yv-y",
+      "name": "Heydar Aliyev Baku Oil Refinery",
+      "operator": "—",
+      "country": "Azerbaijan",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-y-q104844874",
+      "name": "Heysham Refinery",
+      "operator": "—",
+      "country": "United Kingdom",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q16826197",
+      "name": "Hokkaido Refinery",
+      "operator": "—",
+      "country": "Japan",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q12243474",
+      "name": "Homs Petroleum Refinery",
+      "operator": "—",
+      "country": "Syria",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "hpcl-visakh-refinery",
+      "name": "HPCL Visakh Refinery",
+      "operator": "Hindustan Petroleum Corporation Limited (HPCL)",
+      "country": "India",
+      "capacityBD": "301,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q5939818",
+      "name": "Humber Refinery",
+      "operator": "—",
+      "country": "United Kingdom",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-y-y",
+      "name": "Husky Lloydminster Refinery",
+      "operator": "—",
+      "country": "Canada",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q126127859",
+      "name": "Ichihara oil refinery",
+      "operator": "—",
+      "country": "Japan",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q96382026",
+      "name": "Indeni Petroleum Refinery",
+      "operator": "—",
+      "country": "Zambia",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q121299824",
+      "name": "Indian Refinery",
+      "operator": "—",
+      "country": "United States",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "v-y-q107373897",
+      "name": "Ing. Antonio Dovalí Jaime Refinery",
+      "operator": "—",
+      "country": "Mexico",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q107365152",
+      "name": "Ing. Antonio M. Amor Refinery",
+      "operator": "—",
+      "country": "Mexico",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "iocl-gujarat-koyali-refinery",
+      "name": "IOCL Gujarat Refinery (Koyali)",
+      "operator": "Indian Oil Corporation Limited (IOCL)",
+      "country": "India",
+      "capacityBD": "274,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q124256018",
+      "name": "IRPC Refinery",
+      "operator": "—",
+      "country": "Thailand",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "v-y-q6074708",
+      "name": "$L6d",
+      "operator": "Request a correction →",
+      "country": "SESSION",
+      "capacityBD": "Sign-in required",
+      "units": "Your session has expired or you are signed out. Sign in again to return to this page.",
+      "port": "Sign in"
+    },
+    {
+      "slug": "irving-oil-saint-john-refinery",
+      "name": "Irving Oil Saint John Refinery",
+      "operator": "Irving Oil",
+      "country": "Canada",
+      "capacityBD": "320,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "isfahan-oil-refinery",
+      "name": "Isfahan Oil Refining Company (EORC)",
+      "operator": "NIORDC (Isfahan Oil Refining Company 자회사)",
+      "country": "Iran",
+      "capacityBD": "370,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q3417395",
+      "name": "Jamnagar Refinery",
+      "operator": "—",
+      "country": "India",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "z-y-q20423286",
+      "name": "Jazan Refinery",
+      "operator": "—",
+      "country": "Saudi Arabia",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q115678044",
+      "name": "Jean Gaulin Refinery",
+      "operator": "—",
+      "country": "Canada",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q22689994",
+      "name": "Jeddah Refinery",
+      "operator": "—",
+      "country": "Saudi Arabia",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q123740394",
+      "name": "Jingmen oil refinery",
+      "operator": "—",
+      "country": "China",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q123693118",
+      "name": "Jinling oil refinery",
+      "operator": "—",
+      "country": "China",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "jizan-refinery",
+      "name": "Jizan Refinery and Terminal",
+      "operator": "Saudi Aramco",
+      "country": "Saudi Arabia",
+      "capacityBD": "400,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-y-q104857611",
+      "name": "JSC Antipinsky Refinery",
+      "operator": "Rusinvest (JSC Antipinsky Oil Refinery)",
+      "country": "Russia",
+      "capacityBD": "180,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q124260809",
+      "name": "Kaduna Refinery",
+      "operator": "—",
+      "country": "Nigeria",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q12336918",
+      "name": "Kalundborg Refinery",
+      "operator": "—",
+      "country": "Denmark",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q15909831",
+      "name": "Kaohsiung Refinery",
+      "operator": "—",
+      "country": "Taiwan",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q114291325",
+      "name": "Karbala oil refinery",
+      "operator": "—",
+      "country": "Iraq",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q29625285",
+      "name": "Kent Refinery",
+      "operator": "—",
+      "country": "United Kingdom",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q5699698",
+      "name": "Kermanshah Refinery",
+      "operator": "—",
+      "country": "Iran",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q17065651",
+      "name": "Kirishi-2 Oil Refinery",
+      "operator": "—",
+      "country": "Russia",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q136292650",
+      "name": "Kirishi Refinery",
+      "operator": "—",
+      "country": "Russia",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "kirkuk-refinery",
+      "name": "Kirkuk Refinery",
+      "operator": "North Refineries Company (NRC) — Ministry of Oil",
+      "country": "Iraq",
+      "capacityBD": "56,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q6424868",
+      "name": "$L6e",
+      "operator": "Request a correction →",
+      "country": "Kochi Refinery",
+      "capacityBD": "—",
+      "units": "India",
+      "port": "—"
+    },
+    {
+      "slug": "y-y-q130049076",
+      "name": "Kralupy refinery",
+      "operator": "—",
+      "country": "Czechia",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "v-y-q4269070",
+      "name": "Kstovo Refinery",
+      "operator": "—",
+      "country": "Russia",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "v-y-q135436186",
+      "name": "Kulevi Oil Refinery",
+      "operator": "—",
+      "country": "Georgia",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q6446212",
+      "name": "Kurnell Refinery",
+      "operator": "—",
+      "country": "Australia",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "w-y-q6450451",
+      "name": "Kwinana Oil Refinery",
+      "operator": "—",
+      "country": "Australia",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q20024790",
+      "name": "La Brea y Pariñas",
+      "operator": "—",
+      "country": "Peru",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "laffan-refinery",
+      "name": "Laffan Refinery",
+      "operator": "QatarEnergy (72%) + ExxonMobil, TotalEnergies, Cosmo Oil, Mitsui",
+      "country": "Qatar",
+      "capacityBD": "306,600",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q141285023",
+      "name": "Lamu Oil Refinery",
+      "operator": "—",
+      "country": "—",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "v-y",
+      "name": "Landulpho Alves refinery",
+      "operator": "Acelen (Mubadala Capital) -- 2021-12-01 Petrobras에서 매각 인수, 옛 명칭 RLAM/Landulpho Alves",
+      "country": "Brazil",
+      "capacityBD": "333,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "z-y-q123739864",
+      "name": "Lanzhou oil refinery",
+      "operator": "—",
+      "country": "China",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q20024814",
+      "name": "La Pampilla Refinery",
+      "operator": "—",
+      "country": "Peru",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q97627632",
+      "name": "La Rábida oil refinery",
+      "operator": "—",
+      "country": "Spain",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q110722911",
+      "name": "La Teja Refinery",
+      "operator": "—",
+      "country": "Uruguay",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q19605583",
+      "name": "Laurel Refinery",
+      "operator": "—",
+      "country": "United States",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "v-y-q3417393",
+      "name": "Lavéra Refinery",
+      "operator": "—",
+      "country": "France",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q116921929",
+      "name": "Lemont Refinery",
+      "operator": "CITGO Petroleum Corporation (PDVSA 자회사)",
+      "country": "United States",
+      "capacityBD": "177,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q114293002",
+      "name": "Limbé oil refinery",
+      "operator": "—",
+      "country": "Cameroon",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-y-q114308773",
+      "name": "Limetree Bay refinery",
+      "operator": "—",
+      "country": "United States",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-y-q6552903",
+      "name": "Lindsey Oil Refinery",
+      "operator": "—",
+      "country": "United Kingdom",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "vv-y",
+      "name": "$L6b",
+      "operator": "Request a correction →",
+      "country": "Litvinov refinery",
+      "capacityBD": "—",
+      "units": "Czechia",
+      "port": "—"
+    },
+    {
+      "slug": "v-y-q16594322",
+      "name": "Livorno refinery",
+      "operator": "—",
+      "country": "Italy",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-y-q27957412",
+      "name": "Llandarcy oil refinery",
+      "operator": "—",
+      "country": "United Kingdom",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q10358476",
+      "name": "Lobito Oil Refinery",
+      "operator": "—",
+      "country": "Angola",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q110996046",
+      "name": "Long Son Refinery",
+      "operator": "—",
+      "country": "Vietnam",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "luanda-refinery",
+      "name": "Luanda Refinery",
+      "operator": "Sonangol Refinarias (Sonaref) — joint venture with Eni",
+      "country": "Angola",
+      "capacityBD": "65,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q12237534",
+      "name": "Luberef refinery",
+      "operator": "—",
+      "country": "Saudi Arabia",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q114294324",
+      "name": "Lukoil Impianti Nord Refinery",
+      "operator": "—",
+      "country": "Italy",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q114294682",
+      "name": "Lukoil Impianti Sud Refinery",
+      "operator": "—",
+      "country": "Italy",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-y-q123740203",
+      "name": "Luoyang oil refinery",
+      "operator": "—",
+      "country": "China",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-y-q77023949",
+      "name": "Lytton oil refinery",
+      "operator": "—",
+      "country": "Australia",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q7215612",
+      "name": "Mailiao Refinery",
+      "operator": "—",
+      "country": "Taiwan",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q113987261",
+      "name": "Manali Refinery",
+      "operator": "Chennai Petroleum Corporation Limited (CPCL, IOCL 자회사)",
+      "country": "India",
+      "capacityBD": "210,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q56062979",
+      "name": "Mandan Refinery",
+      "operator": "—",
+      "country": "United States",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q123693129",
+      "name": "Maoming oil refinery",
+      "operator": "—",
+      "country": "China",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "marathon-galveston-bay-refinery",
+      "name": "Marathon Galveston Bay Refinery",
+      "operator": "Marathon Petroleum",
+      "country": "United States",
+      "capacityBD": "631,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-y-q117922063",
+      "name": "Marathon Salt Lake City Refinery",
+      "operator": "Marathon Petroleum Corporation",
+      "country": "United States",
+      "capacityBD": "70,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q11226757",
+      "name": "Marifu Refinery",
+      "operator": "—",
+      "country": "Japan",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q6773242",
+      "name": "Marsden Point Oil Refinery",
+      "operator": "—",
+      "country": "New Zealand",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q15982506",
+      "name": "Mathura Refinery",
+      "operator": "—",
+      "country": "India",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "v-y-q106019141",
+      "name": "$L6b",
+      "operator": "Request a correction →",
+      "country": "Matraville Refinery",
+      "capacityBD": "—",
+      "units": "Australia",
+      "port": "—"
+    },
+    {
+      "slug": "y-q47310208",
+      "name": "McKee Refinery",
+      "operator": "—",
+      "country": "United States",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q117883659",
+      "name": "McPherson Refinery",
+      "operator": "—",
+      "country": "United States",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "petronas-melaka-energy-park",
+      "name": "Melaka Energy Park (Melaka Refinery)",
+      "operator": "Malaysian Refining Company Sdn Bhd (PETRONAS subsidiary)",
+      "country": "Malaysia",
+      "capacityBD": "300,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q117883904",
+      "name": "Memphis Refinery",
+      "operator": "Valero Energy Corporation",
+      "country": "United States",
+      "capacityBD": "195,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "x-y",
+      "name": "Meraux Refinery",
+      "operator": "—",
+      "country": "United States",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "midor-alexandria-refinery",
+      "name": "MIDOR (Middle East Oil Refinery) — Alexandria",
+      "operator": "Middle East Oil Refinery Co. (Midor) — 98% owned by EGPC (established 1994)",
+      "country": "Egypt",
+      "capacityBD": "160,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "zz-y-q12525522",
+      "name": "Milazzo Refinery",
+      "operator": "—",
+      "country": "Italy",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "v-y-q15253387",
+      "name": "Milford Haven Refinery",
+      "operator": "—",
+      "country": "United Kingdom",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q141539169",
+      "name": "Mina Abdullah Refinery",
+      "operator": "—",
+      "country": "—",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q114302189",
+      "name": "Mina Al Ahmadi refinery",
+      "operator": "—",
+      "country": "Kuwait",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "knpc-mina-al-ahmadi-refinery",
+      "name": "Mina Al-Ahmadi Refinery",
+      "operator": "Kuwait National Petroleum Company (KNPC)",
+      "country": "Kuwait",
+      "capacityBD": "346,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "w-z",
+      "name": "Mineralölwerk Lützkendorf",
+      "operator": "—",
+      "country": "Germany",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q130323499",
+      "name": "Moldonaphta refinerry from Lucăcești",
+      "operator": "—",
+      "country": "Romania",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q114304545",
+      "name": "MOL Duna Refinery",
+      "operator": "—",
+      "country": "Hungary",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q131675310",
+      "name": "Mongol Refinery",
+      "operator": "—",
+      "country": "Mongolia",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q59199378",
+      "name": "Mongstad Refinery",
+      "operator": "—",
+      "country": "Norway",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q3417394",
+      "name": "Montreal East Refinery",
+      "operator": "—",
+      "country": "Canada",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q6906318",
+      "name": "Montreal Refinery",
+      "operator": "—",
+      "country": "Canada",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "w-y-q4304225",
+      "name": "Moscow Refinery",
+      "operator": "—",
+      "country": "Russia",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "motiva-port-arthur-refinery",
+      "name": "$L6b",
+      "operator": "Request a correction →",
+      "country": "Motiva Port Arthur Refinery",
+      "capacityBD": "Motiva Enterprises (Saudi Aramco)",
+      "units": "United States",
+      "port": "654,000"
+    },
+    {
+      "slug": "y-q6935320",
+      "name": "Mumbai Refinery Mahul",
+      "operator": "—",
+      "country": "India",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q126131293",
+      "name": "Muroran refinery",
+      "operator": "—",
+      "country": "Japan",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q18660939",
+      "name": "Naantali refinery",
+      "operator": "—",
+      "country": "Finland",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q6958498",
+      "name": "Nagapattnam Refinery",
+      "operator": "—",
+      "country": "India",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q6964327",
+      "name": "Nanticoke Refinery",
+      "operator": "—",
+      "country": "Canada",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q114306354",
+      "name": "Natref refinery",
+      "operator": "—",
+      "country": "South Africa",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "nayara-energy-vadinar-refinery",
+      "name": "Nayara Energy Vadinar Refinery",
+      "operator": "Nayara Energy Limited (Rosneft 49.13% 지분)",
+      "country": "India",
+      "capacityBD": "405,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q130326304",
+      "name": "N. Choss distillery from Lucăcești",
+      "operator": "—",
+      "country": "—",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-y-q11226751",
+      "name": "Negishi Yokohama Refinery",
+      "operator": "—",
+      "country": "Japan",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "nghi-son-refinery",
+      "name": "Nghi Son Refinery",
+      "operator": "Nghi Son Refinery and Petrochemical LLC (NSRP) — JV of PetroVietnam, Kuwait Petroleum Europe, Idemitsu Kosan, Mitsui Chemicals",
+      "country": "Vietnam",
+      "capacityBD": "200,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "zy-v-y",
+      "name": "Nizhny Novgorod refinery",
+      "operator": "—",
+      "country": "Russia",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q131198969",
+      "name": "Norco oil refinery",
+      "operator": "—",
+      "country": "United States",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-y-q3417396",
+      "name": "Normandy Refinery",
+      "operator": "—",
+      "country": "France",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q117925950",
+      "name": "North Salt Lake Refinery",
+      "operator": "Big West Oil LLC (FJ Management Inc. 자회사)",
+      "country": "United States",
+      "capacityBD": "35,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "v-y-q124299889",
+      "name": "Novo-Ufa refinery",
+      "operator": "—",
+      "country": "Russia",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q16906345",
+      "name": "Numaligarh Refinery",
+      "operator": "—",
+      "country": "India",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "v-y-q7074257",
+      "name": "Oakville Refinery",
+      "operator": "—",
+      "country": "Canada",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "v-y-q7074258",
+      "name": "Oakville Refinery",
+      "operator": "—",
+      "country": "Canada",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q60753152",
+      "name": "Occidental Refinery",
+      "operator": "—",
+      "country": "United Kingdom",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q11226747",
+      "name": "$L6b",
+      "operator": "Request a correction →",
+      "country": "Ohita Refinery",
+      "capacityBD": "—",
+      "units": "Japan",
+      "port": "—"
+    },
+    {
+      "slug": "y-wv",
+      "name": "Oil refinery and depot Wilhelmshaven",
+      "operator": "—",
+      "country": "Germany",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-z",
+      "name": "Oil refinery of Muskiz",
+      "operator": "—",
+      "country": "Spain",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-v",
+      "name": "Oil refinery Vösendorf",
+      "operator": "—",
+      "country": "Austria",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q4334732",
+      "name": "Omsk refinery",
+      "operator": "—",
+      "country": "Russia",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "v-y-w",
+      "name": "OMV Oil refinery Schwechat",
+      "operator": "—",
+      "country": "Austria",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q4337084",
+      "name": "Orsk Oil Refinery",
+      "operator": "—",
+      "country": "Russia",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q61268627",
+      "name": "Pachpadra Refinery",
+      "operator": "—",
+      "country": "India",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q7125687",
+      "name": "Pakistan Refinery",
+      "operator": "—",
+      "country": "Pakistan",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "v-y-q110046218",
+      "name": "Pančevo oil refinery",
+      "operator": "—",
+      "country": "Serbia",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "ioc-panipat-refinery",
+      "name": "Panipat Refinery",
+      "operator": "Indian Oil Corporation Limited (IOCL)",
+      "country": "India",
+      "capacityBD": "300,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q7134170",
+      "name": "Paradip Refinery",
+      "operator": "—",
+      "country": "India",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-x",
+      "name": "Paraguaná Refinery Complex",
+      "operator": "—",
+      "country": "Venezuela",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q117884114",
+      "name": "Pascagoula Refinery",
+      "operator": "Chevron Corporation",
+      "country": "United States",
+      "capacityBD": "350,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q35287721",
+      "name": "Paulsboro Refinery",
+      "operator": "—",
+      "country": "United States",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "v-y-q120979334",
+      "name": "Pavlodar oil refinery",
+      "operator": "—",
+      "country": "Kazakhstan",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q14524622",
+      "name": "PCK refinery",
+      "operator": "—",
+      "country": "Germany",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q7161972",
+      "name": "Pembroke Refinery",
+      "operator": "—",
+      "country": "United Kingdom",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q112960399",
+      "name": "Perm refinery",
+      "operator": "Lukoil-Permnefteorgsintez",
+      "country": "Russia",
+      "capacityBD": "226,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "persian-gulf-star-refinery",
+      "name": "Persian Gulf Star Refinery (Bandar Abbas Gas Condensate Refinery)",
+      "operator": "Persian Gulf Star Oil Company (PGSOC)",
+      "country": "Iran",
+      "capacityBD": "360,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-y-q7170816",
+      "name": "Perth Amboy Refinery",
+      "operator": "—",
+      "country": "United States",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "z-y-q7178884",
+      "name": "Petrobrazi Refinery",
+      "operator": "—",
+      "country": "Romania",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "petrochina-daqing-refining-chemical",
+      "name": "PetroChina Daqing Refining & Chemical Company",
+      "operator": "PetroChina (China National Petroleum Corporation, CNPC 계열)",
+      "country": "China",
+      "capacityBD": "200,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "petrochina-dushanzi-petrochemical-refinery",
+      "name": "PetroChina Dushanzi Petrochemical Refinery",
+      "operator": "PetroChina Dushanzi Petrochemical Company",
+      "country": "China",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "petrochina-fushun-petrochemical-refinery",
+      "name": "PetroChina Fushun Petrochemical Company",
+      "operator": "PetroChina (China National Petroleum Corporation)",
+      "country": "China",
+      "capacityBD": "223,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "petrochina-guangxi-petrochemical-refinery",
+      "name": "PetroChina Guangxi Petrochemical Refinery",
+      "operator": "PetroChina (CNPC) — Guangxi Petrochemical Branch",
+      "country": "China",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "petrochina-jilin-petrochemical-refinery",
+      "name": "PetroChina Jilin Petrochemical Company",
+      "operator": "PetroChina (전신 1957년 가동, 현 법인 2000년 1월 설립)",
+      "country": "China",
+      "capacityBD": "196,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "petrochina-karamay-petrochemical-refinery",
+      "name": "PetroChina Karamay Petrochemical Company",
+      "operator": "PetroChina (China National Petroleum Corporation)",
+      "country": "China",
+      "capacityBD": "120,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "petrochina-lanzhou-petrochemical-refinery",
+      "name": "PetroChina Lanzhou Petrochemical Refinery",
+      "operator": "PetroChina Lanzhou Petrochemical Company",
+      "country": "China",
+      "capacityBD": "214,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "petrochina-sichuan-petrochemical-refinery",
+      "name": "PetroChina Sichuan Petrochemical Company",
+      "operator": "PetroChina (CNPC) / 쓰촨성 정부 합작",
+      "country": "China",
+      "capacityBD": "200,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q7179010",
+      "name": "Petromidia Refinery",
+      "operator": "—",
+      "country": "Romania",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "petron-bataan-refinery",
+      "name": "Petron Bataan Refinery",
+      "operator": "Petron Corporation",
+      "country": "Philippines",
+      "capacityBD": "180,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "petro-rabigh-refinery",
+      "name": "Petro Rabigh (Rabigh Refining & Petrochemical Company)",
+      "operator": "Saudi Aramco(60%) / Sumitomo Chemical(15%) 등 합작",
+      "country": "Saudi Arabia",
+      "capacityBD": "400,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q124253551",
+      "name": "Phra Khanong Refinery",
+      "operator": "—",
+      "country": "Thailand",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q7195062",
+      "name": "Pine Bend Refinery",
+      "operator": "—",
+      "country": "United States",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q85793416",
+      "name": "Pioneer Oil Refinery",
+      "operator": "—",
+      "country": "United States",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q123932967",
+      "name": "Plaju oil refinery",
+      "operator": "—",
+      "country": "Indonesia",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "v-y-q55240813",
+      "name": "Plama Pleven Oil Refinery",
+      "operator": "—",
+      "country": "Bulgaria",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "orlen-plock-refinery",
+      "name": "Płock Refinery",
+      "operator": "PKN Orlen",
+      "country": "Poland",
+      "capacityBD": "276,000",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "w-y-q25105079",
+      "name": "Ponghwa Chemical Factory",
+      "operator": "—",
+      "country": "North Korea",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q7230488",
+      "name": "$L6b",
+      "operator": "Request a correction →",
+      "country": "Port Arthur Refinery",
+      "capacityBD": "—",
+      "units": "United States",
+      "port": "—"
+    },
+    {
+      "slug": "y-q122979739",
+      "name": "Port Credit Oil Refinery",
+      "operator": "—",
+      "country": "Canada",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q121546865",
+      "name": "Port Harcourt refinery",
+      "operator": "—",
+      "country": "Nigeria",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y",
+      "name": "Porto Refinery",
+      "operator": "—",
+      "country": "Portugal",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q7230873",
+      "name": "Port Reading Refinery",
+      "operator": "—",
+      "country": "United States",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "v-y-q7230956",
+      "name": "Port Stanvac Refinery",
+      "operator": "—",
+      "country": "Australia",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q7230962",
+      "name": "Port Sudan Refinery",
+      "operator": "—",
+      "country": "Sudan",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "v-y-q18689092",
+      "name": "Porvoo refinery",
+      "operator": "—",
+      "country": "Finland",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "w",
+      "name": "Power Plant in Dora",
+      "operator": "—",
+      "country": "Iraq",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q1184868",
+      "name": "Preemraff Lysekil",
+      "operator": "—",
+      "country": "Sweden",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "z-y-q6103449",
+      "name": "Puerto la Cruz refinery",
+      "operator": "—",
+      "country": "Venezuela",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q6103453",
+      "name": "Puertollano Refinery",
+      "operator": "—",
+      "country": "Spain",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "qayyarah-refinery",
+      "name": "Qayyarah Refinery",
+      "operator": "North Refineries Company (NRC) — Ministry of Oil",
+      "country": "Iraq",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q123693107",
+      "name": "Qilu oil refinery",
+      "operator": "—",
+      "country": "China",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q22689995",
+      "name": "Rabigh oil refinery",
+      "operator": "—",
+      "country": "Saudi Arabia",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "y-q2127126",
+      "name": "Raffinerie Collombey",
+      "operator": "—",
+      "country": "Switzerland",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    },
+    {
+      "slug": "yz",
+      "name": "Raffinerie de Feyzin",
+      "operator": "—",
+      "country": "France",
+      "capacityBD": "—",
+      "units": "—",
+      "port": "—"
+    }
+  ]
+}
