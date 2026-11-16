@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#0d1012">
+  <meta name="description" content="OilMarket — Global energy trading portal. Discover market prices, energy suppliers, infrastructure and trade opportunities.">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+  <title>OilMarket — Global Energy Trading Portal</title>
+</head>
+<body>
+  <div class="announcement"><span class="pulse"></span><span data-i18n="announcement">Independent intelligence for global energy trade</span><a href="#/about" data-i18n="learnMore">Learn more <b>↗</b></a></div>
+  <header class="site-header">
+    <a class="brand" href="#/home" aria-label="OilMarket home"><img src="/oilmarket-logo.jpg" alt="OilMarket — Global Energy Trading Portal"></a>
+    <button class="menu-toggle" aria-label="Open navigation" aria-expanded="false"><span></span><span></span></button>
+    <nav class="main-nav" aria-label="Main navigation">
+      <a href="#/prices" data-nav="prices" data-i18n="navPrices">Prices</a>
+      <a href="#/products" data-nav="products" data-i18n="navProducts">Products</a>
+      <a href="#/refineries" data-nav="refineries" data-i18n="navRefineries">Refineries</a>
+      <a href="#/traders" data-nav="traders" data-i18n="navTraders">Traders</a>
+      <a href="#/storage" data-nav="storage" data-i18n="navStorage">Storage</a>
+      <a href="#/shipping" data-nav="shipping" data-i18n="navShipping">Shipping</a>
+      <a href="#/listings" data-nav="listings" data-i18n="navListings">Listings</a>
+      <a href="#/news" data-nav="news" data-i18n="navNews">News</a>
+      <a href="#/insights" data-nav="insights" data-i18n="navInsights">Insights</a>
+      <a href="#/about" data-nav="about" data-i18n="navAbout">About</a>
+    </nav>
+    <div class="header-actions"><button class="lang-toggle" aria-label="Switch language">FR</button><a class="button button-dark button-small" href="#/inquiry" data-i18n="tradeInquiry">Trade inquiry <span>↗</span></a></div>
+  </header>
+  <main id="app" tabindex="-1"></main>
+  <footer class="footer">
+    <div class="footer-main"><div class="footer-brand"><img src="/oilmarket-logo.jpg" alt="OilMarket"><p data-i18n="footerTag">Your gateway to international energy markets.</p><a href="mailto:contact@oilmarket.energy">contact@oilmarket.energy</a><a href="tel:+971568129726">+971 56 812 9726</a></div>
+      <div><h4 data-i18n="explore">Explore</h4><a href="#/prices" data-i18n="navPrices">Prices</a><a href="#/products" data-i18n="navProducts">Products</a><a href="#/listings" data-i18n="navListings">Listings</a><a href="#/news" data-i18n="navNews">News</a></div>
+      <div><h4 data-i18n="directories">Directories</h4><a href="#/refineries" data-i18n="navRefineries">Refineries</a><a href="#/traders" data-i18n="navTraders">Traders</a><a href="#/storage" data-i18n="navStorage">Storage</a><a href="#/shipping" data-i18n="navShipping">Shipping</a></div>
+      <div class="footer-cta"><span class="eyebrow" data-i18n="forProfessionals">FOR ENERGY PROFESSIONALS</span><h3 data-i18n="footerHeadline">Move business forward.</h3><a class="button button-red" href="#/inquiry" data-i18n="startInquiry">Start an inquiry <span>↗</span></a></div>
+    </div><div class="footer-bottom"><span>© <span id="year"></span> OILMARKET</span><span data-i18n="footerNote">Market data is unavailable until a licensed source is connected.</span><div><a href="#/privacy" data-i18n="privacy">Privacy</a><a href="#/terms" data-i18n="terms">Terms</a><button class="lang-toggle">FR</button></div></div>
+  </footer>
+  <div class="toast" role="status" aria-live="polite"></div>
+  <script src="/app.js" defer></script>
+</body>
+</html>
